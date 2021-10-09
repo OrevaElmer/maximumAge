@@ -1,2 +1,2 @@
 # maximumAge
-This program linear search to return the maximum age from a list of age
+This program use linear search to return the maximum age from a list of age
